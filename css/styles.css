@@ -3,19 +3,38 @@
 /***************/
 
 /* Color Palette */
+.color-1 {
+    background: red;
+}
 
+.color-2 {
+    background: green;
+}
 
 /* Textures or Patterns*/
-
+.pattern-1 {
+    
+    
+    
+}
 
 /* Imagery */
+.imagery-1 {
+ img src="rose.jpg"
+}
+.imagery-2 {
 
+}
+.imagery-3 {
 
+}
 /* Icons */
 
 
 /* Typography */
-
+.grid-4 {
+    font-family: 'Cardo', serif;
+}
 
 /* Forms */
 
